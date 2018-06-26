@@ -1,2 +1,2 @@
 # Nitin Kushwah
-# Nitin ...
+Nitin Kushwah
