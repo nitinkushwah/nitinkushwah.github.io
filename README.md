@@ -1,2 +1,1 @@
-# nitinkushwah.github.io
-Nitin Kushwah
+# Nitin Kushwah
