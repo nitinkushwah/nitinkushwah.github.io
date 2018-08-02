@@ -1,6 +1,6 @@
 # Nitin Kushwah
 ## Nitin
-### Kushwaah
+### Kushwah
 ________________
 * point 1
 * point 2
