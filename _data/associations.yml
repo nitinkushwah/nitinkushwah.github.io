@@ -1,11 +1,8 @@
 # Associations
 # comment out the urls if you do not wish to display them
 - organization: Sun Certified System Administrator
-- organization: Sun Certified System Administrator
-- organization: Sun Certified System Administrator
-- organization: Sun Certified System Administrator
- # role: Sun Certified System Administrator
-  #role: Sun Certified System Administrator
+  role: Sun Certified System Administrator1
+  role: Sun Certified System Administrator2
   #year: 2001 &mdash; 2010
   #url: https://www.peta.org/
  # summary: Organized fund drives and participated in fundraising events for the benefit of PETA's local Springfield operations.
