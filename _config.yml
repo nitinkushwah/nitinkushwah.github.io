@@ -1,7 +1,8 @@
 # Site settings
 title: "Nitin Kushwah | Unix, Linux, Devops, Cloud, SAN, NAS, Storage, Scripting shell, python"
 description: "Unix, Linux, cloud, virtualization, aws, devops, shell, python storage"
-
+plugins:
+  - jekyll-seo-tag
 # Build settings
 markdown: kramdown
 sass:
