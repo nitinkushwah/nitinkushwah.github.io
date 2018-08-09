@@ -1,8 +1,8 @@
 # Skills
 # Organizational leadership
 - skill: Technical
-  description: Working on flash, nvme, SSD based high performance storage solutions.<ul class="resume-item-list"><li>Operating system SolariS and Unix: Linux, Ubuntu, CentOS, Redhat, Debian</li><li>Storages: Flash, NVMe, SSD, NAS: iSCSI, NFS, CIFS, Fibre Channel</li><li>ZFS Storage Appliance and Engineered storages</li><li>Networking: iperf, snoop, tcpdump, wireshark, DNS, IP multipathing, aggregation</li><li>Scripting in shell, python as and when required</li><li>Virtualization concepts like vmware, Hyperv, AWS, virtualbox, LDOM</li></ul>
-  
+  description: Working on flash, nvme, SSD based high performance storage solutions.<ul class="resume-item-list"><li>Virtualization concepts like vmware, Hyperv, AWS, virtualbox, LDOM</li></ul>
+
 - skill: Customer Communication
   description: I have several years of experience in handling difficult customer situations. Customer satisfaction and customer delight being the primary focus. Managing customers and key stakeholders through technical leadership and tactful communication
 
