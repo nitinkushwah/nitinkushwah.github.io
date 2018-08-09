@@ -1,7 +1,7 @@
 # Skills
 # Organizational leadership
 - skill: Technical
-  description: <ul class="resume-item-list"><li>Operating system (Solaris, Unix: Linux, Ubuntu, CentOS, Redhat, Debian)</il><li>Storages: Flash, NVMe, SSD, NAS: iSCSI, NFS, CIFS, Fibre Channel</li><li>ZFS Storage Appliance and Engineered storages</li><li>Networking: iperf, snoop, tcpdump, wireshark, DNS, IP multipathing, aggregation</li><li>Scripting in shell, python as and when required</li><li>Virtualization concepts like vmware, Hyperv, AWS, virtualbox, LDOM</li> 
+  description: <ul class="resume-item-list"><li>Operating system (Solaris, Unix: Linux, Ubuntu, CentOS, Redhat, Debian)</il><li>Storages: Flash, NVMe, SSD, NAS: iSCSI, NFS, CIFS, Fibre Channel</li><li>ZFS Storage Appliance and Engineered storages</li><li>Networking: iperf, snoop, tcpdump, wireshark, DNS, IP multipathing, aggregation</li><li>Scripting in shell, python as and when required</li><li>Virtualization concepts like vmware, Hyperv, AWS, virtualbox, LDOM</li></ul>
   
   
 - skill: Customer Communication
