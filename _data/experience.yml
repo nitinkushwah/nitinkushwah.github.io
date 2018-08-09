@@ -3,58 +3,25 @@
 - company: Western Digital (Sandisk) UK
   position: Principal Application Engineer
   duration: July, 2017 &mdash; Present
-  summary: Working on multiple storage products including 
-<ul class="resume-item-list">
-<li>Documentation, bug filing</li>
-<li>Troubleshooting and reproducing customer issues</li>
-<li>Suggesting optimal configuration</li>
-<li>Performance analysis and testing</li>
-<li>Creating utilities in python, shell, batch script</li>
-</ul>
+  summary: Working on multiple storage products including <ul class="resume-item-list"><li>Documentation, bug filing</li><li>Troubleshooting and reproducing customer issues</li><li>Suggesting optimal configuration</li><li>Performance analysis and testing</li><li>Creating utilities in python, shell, batch script</li></ul>
 
 # Director of Digital Stratgy
 - company: Oracle
   position: Principal Technical Analyst
   duration:  Dec, 2010 &mdash; June, 2017
-  summary: 
-<ul class="resume-item-list">
-<li>Resolving data storage related issues through excellent troubleshooting and problem solving skills in a variety of complex environments</li>
-<li>Demonstrated expertise in resolving performance related issues</li>
-<li>Resolving problems by identifying existing bugs and providing their associated solutions to customers as well as filing new bugs</li>
-<li>Providing feedback on product quality, serviceability to engineering team</li>
-<li>Customer advocate in several situations ensuring customer satisfaction with Oracle Products and Services</li>
-<li>Reproducing specific issues in lab </li>
-<li>Troubleshooting Hardware/Software faults</li>
-<li>Taking ownership of the issue until resolution</li>
-<li>Active participant in the Oracle storage community/forum by helping customer queries</li>
-<li>Creating formal knowledge articles for dissemination of the same to internal and external customers</li>
-</ul>
+  summary: <ul class="resume-item-list"><li>Resolving data storage related issues through excellent troubleshooting and problem solving skills in a variety of complex environments</li><li>Demonstrated expertise in resolving performance related issues</li><li>Resolving problems by identifying existing bugs and providing their associated solutions to customers as well as filing new bugs</li><li>Providing feedback on product quality, serviceability to engineering team</li><li>Customer advocate in several situations ensuring customer satisfaction with Oracle Products and Services</li><li>Reproducing specific issues in lab </li><li>Troubleshooting Hardware/Software faults</li><li>Taking ownership of the issue until resolution</li><li>Active participant in the Oracle storage community/forum by helping customer queries</li><li>Creating formal knowledge articles for dissemination of the same to internal and external customers</li></ul>
 
 # Communications Coordinator
 - company: Nokia Siemens Networks
   position: Software Integration Engineer
   duration:   Aug, 2008  &mdash; Dec, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
-<ul class="resume-item-list">
-<li>Troubleshooting Solaris OS related issues and providing root cause analysis (RCA)</li>
-<li>Working in an Agile ( Scrum) Development environment</li>
-<li>Feasibility and pre-analysis of innovation/improvement/implementation ideas in terms of efforts</li>
-<li>Innovation and implementation of new product improvement idea</li>
-<li>Integrate and Certify the OEM stack for the basic functionality of Solaris, patches, Sun cluster</li>
-<li>Integrating the new hardware like servers and storage after verifying the proper functionality</li>
-<li>Maintaining “Software Upgrade framework” for highly available Sun cluster systems so as to provide minimal downtime/outage during upgrades</li>
+  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.<ul class="resume-item-list"><li>Troubleshooting Solaris OS related issues and providing root cause analysis (RCA)</li><li>Working in an Agile ( Scrum) Development environment</li><li>Feasibility and pre-analysis of innovation/improvement/implementation ideas in terms of efforts</li><li>Innovation and implementation of new product improvement idea</li><li>Integrate and Certify the OEM stack for the basic functionality of Solaris, patches, Sun cluster</li><li>Integrating the new hardware like servers and storage after verifying the proper functionality</li><li>Maintaining “Software Upgrade framework” for highly available Sun cluster systems so as to provide minimal downtime/outage during upgrades</li>
 
 # Communications Coordinator
 - company: Wipro Ltd
   position: Senior Service Engineer
   duration:   June, 2006  &mdash; July, 2008
-  summary: 
-<ul class="resume-item-list">
-<li>Responsible for maintaining the health of 200 Sun Servers to ensure business continuity</li>
-<li>Helping/Guiding local on-site administrators for various hardware and Solaris/Linux related issues</li>
-<li>Supervising and assisting installation on Sun hardware and storage</li>
-<li>Patching and firmware upgrades</li>
-<li>Performing various maintenance activities on Sun hardware and Solaris</li>
+  summary: <ul class="resume-item-list"><li>Responsible for maintaining the health of 200 Sun Servers to ensure business continuity</li><li>Helping/Guiding local on-site administrators for various hardware and Solaris/Linux related issues</li><li>Supervising and assisting installation on Sun hardware and storage</li><li>Patching and firmware upgrades</li><li>Performing various maintenance activities on Sun hardware and Solaris</li>
   
 - company: Certifications:
 Sun Certified System Administrator
