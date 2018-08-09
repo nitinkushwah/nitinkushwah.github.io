@@ -23,7 +23,4 @@
   duration:   June, 2006  &mdash; July, 2008
   summary: <ul class="resume-item-list"><li>Responsible for maintaining the health of 200 Sun Servers to ensure business continuity</li><li>Helping/Guiding local on-site administrators for various hardware and Solaris/Linux related issues</li><li>Supervising and assisting installation on Sun hardware and storage</li><li>Patching and firmware upgrades</li><li>Performing various maintenance activities on Sun hardware and Solaris</li>
   
-- company: Certifications:
-Sun Certified System Administrator
-Sun Certified Cluster Administrator
-Sun Certified Field Engineer
+- Certifications:<ul class="resume-item-list"><li>Sun Certified System Administrator</li><li>Sun Certified Cluster Administrator</li><li>Sun Certified Field Engineer</li>
