@@ -160,9 +160,9 @@
       <section class="content-section">
 
         <header class="section-header">
-          <h2>Associations</h2>
+          <h2>Certifications</h2>
         </header>
-
+<!--
         {% for association in site.data.associations %}
         <div class="resume-item" itemscope itemprop="memberOf" itemtype="http://schema.org/Organization">
           <h3 class="resume-item-title" itemprop="name">{% if association.url %}<a href="{{ association.url }}">{{ association.organization }}</a>{% else %}{{ association.organization }}{% endif %}</h3>
@@ -170,7 +170,15 @@
           <p class="resume-item-copy">{{ association.summary }}</p>
         </div>
         {% endfor %}
-
+-->
+       <div class="resume-item">
+          <ul class="resume-item-list">
+            {% for association in site.data.associations %}
+            <li>{{ association.description }}</li>
+            {% endfor %}
+          </ul>
+        </div>
+       
       </section>
       <!-- end Associations -->
       {% endif %}
